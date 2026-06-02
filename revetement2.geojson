@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "revetement2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 99, "type": "Amenagement ", "description": "Revetement « rafistoler » peu agreable mais tout de meme fonctionnel ", "photo": "20260227_101925.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.701758676146269, 44.903098451419815 ], [ -0.701264273759415, 44.902956444825982 ], [ -0.705181000022284, 44.89972521815173 ], [ -0.70544790635959, 44.899788387037802 ], [ -0.701758676146269, 44.903098451419815 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 101, "type": "Amenagement ", "description": "Revetement", "photo": "20260227_102121.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.69979909554452, 44.904813513953904 ], [ -0.699195519862161, 44.904578548877026 ], [ -0.700774596304787, 44.90327263232215 ], [ -0.701396693667939, 44.903397888293917 ], [ -0.69979909554452, 44.904813513953904 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 114, "type": "Amenagement ", "description": "Revetement ", "photo": "20260227_104317.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.674474519650925, 44.909997279168209 ], [ -0.673216521955706, 44.909773536297827 ], [ -0.67290698741859, 44.909659596428646 ], [ -0.674474519650925, 44.909997279168209 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 115, "type": "Signalisation ", "description": "Bandes", "photo": "20260227_104401.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.67455429419786, 44.9099845833072 ], [ -0.670147910761265, 44.909432658034945 ], [ -0.669368611193546, 44.908879474384612 ], [ -0.67455429419786, 44.9099845833072 ] ] ] } }
+]
+}

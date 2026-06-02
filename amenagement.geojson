@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "amenagement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 105, "type": "Amena", "description": "Pmr?", "photo": "20260227_102851.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.697112384922916, 44.906473045439547 ], [ -0.697077900107405, 44.906424779291832 ], [ -0.697158433058017, 44.906422166093705 ], [ -0.697112384922916, 44.906473045439547 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 106, "type": "Amena", "description": "Risque de conflit", "photo": "20260227_102942.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.69757097942876, 44.906357902950113 ], [ -0.697531111245084, 44.906330521533185 ], [ -0.697693601746224, 44.90564978677066 ], [ -0.697972630114245, 44.905352385129085 ], [ -0.69757097942876, 44.906357902950113 ] ] ] } }
+]
+}

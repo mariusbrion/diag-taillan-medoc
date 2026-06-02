@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "panneau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 103, "type": "Amena", "description": "Panneau", "photo": "20260227_102653.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.697453884133546, 44.906053479172222 ], [ -0.697359627079105, 44.905978833797704 ], [ -0.697446636709696, 44.90594069012328 ], [ -0.697453884133546, 44.906053479172222 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 116, "type": "Amenagement ", "description": "Panneau", "photo": "20260227_105213.jpg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.663361225560468, 44.918327529222438 ], [ -0.66322021860862, 44.918316323004021 ], [ -0.663333486074553, 44.91812381574065 ], [ -0.663361225560468, 44.918327529222438 ] ] ] } }
+]
+}
